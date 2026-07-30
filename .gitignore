@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# Model files (too large for Git — use DVC or HuggingFace Hub instead)
+*.pkl
+*.bin
+*.pt
+*.pth
+best_ml_model.pkl
+best_ml_vectorizer.pkl
+best_transformer_model/
+results_*/
+
+# Data files (raw YouTube comments — copyright + size)
+data_moi.csv
+data_moi.xlsx
+data_moi_Dataxuly_Final.xlsx
+data_moi_Dataxuly_Final.csv
+file_final_tong_hop_cho_dudoan.csv
+DS_Icon.xlsx
+*.csv
+!data/DMviettat_Goiy.csv
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/

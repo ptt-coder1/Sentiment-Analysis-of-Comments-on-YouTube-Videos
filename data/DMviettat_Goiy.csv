@@ -1,0 +1,220 @@
+viet_tat,day_du,loai,ghi_chu
+k,không,teencode,phổ biến trong chat/mạng xã hội
+ko,không,teencode,phổ biến trong chat/mạng xã hội
+hok,không,teencode,phổ biến trong chat/mạng xã hội
+hông,không,vung_mien,phát âm miền Nam
+hôk,không,teencode,"biến thể của ""không"""
+kg,không,teencode,hay bị nhầm với đơn vị kilogam
+đc,được,teencode,phổ biến trong chat/mạng xã hội
+dc,được,teencode,phổ biến trong chat/mạng xã hội
+đk,được không,teencode,"cần xét ngữ cảnh (trùng viết tắt ""đăng ký"")"
+vs,với,teencode,phổ biến trong chat/mạng xã hội
+z,vậy,teencode,phổ biến trong chat/mạng xã hội
+j,gì,teencode,phổ biến trong chat/mạng xã hội
+r,rồi,teencode,phổ biến trong chat/mạng xã hội
+rùi,rồi,teencode,"biến thể của ""rồi"""
+b,bạn,teencode,"cần xét ngữ cảnh (trùng ""bị""",ba)
+m,mày,teencode,"cần xét ngữ cảnh (trùng ""mình"")"
+t,tao,teencode,"cần xét ngữ cảnh (trùng ""tôi"")"
+tui,tôi,vung_mien,phổ biến miền Nam
+mik,mình,teencode,"biến thể của ""mình"""
+mk,mình,teencode,"biến thể của ""mình"""
+ny,người yêu,teencode,phổ biến trong chat/mạng xã hội
+bn,bạn,teencode,"cần xét ngữ cảnh (trùng ""bao nhiêu"")"
+bik,biết,teencode,"biến thể của ""biết"""
+bít,biết,teencode,"biến thể của ""biết"""
+bt,bình thường,teencode,"cần xét ngữ cảnh (trùng ""biết"")"
+ht,hôm trước,teencode,"cần xét ngữ cảnh (trùng ""hiện tại"")"
+hnay,hôm nay,teencode,phổ biến trong chat/mạng xã hội
+h,giờ,teencode,"cần xét ngữ cảnh (trùng ""hôm"")"
+bh,bây giờ,teencode,phổ biến trong chat/mạng xã hội
+ce,chị em,teencode,phổ biến trong chat/mạng xã hội
+ck,chồng,teencode,phổ biến trong chat/mạng xã hội
+vk,vợ,teencode,phổ biến trong chat/mạng xã hội
+add,kết bạn,teencode,"mượn từ tiếng Anh ""add friend"""
+inb,nhắn tin riêng,teencode,"mượn từ tiếng Anh ""inbox"""
+ib,nhắn tin riêng,teencode,"viết tắt của ""inbox"""
+sr,xin lỗi,teencode,"mượn từ tiếng Anh ""sorry"""
+thx,cảm ơn,teencode,"mượn từ tiếng Anh ""thanks"""
+tks,cảm ơn,teencode,"mượn từ tiếng Anh ""thanks"""
+ok,đồng ý,teencode,mượn từ tiếng Anh
+oke,đồng ý,teencode,"biến thể của ""ok"""
+lm,làm,teencode,phổ biến trong chat/mạng xã hội
+nt,nhắn tin,teencode,"cần xét ngữ cảnh (trùng ""như thế"")"
+ns,nói,teencode,phổ biến trong chat/mạng xã hội
+nx,nữa,teencode,phổ biến trong chat/mạng xã hội
+n,nó,teencode,cần xét ngữ cảnh (rất mơ hồ)
+đt,điện thoại,teencode,"cần xét ngữ cảnh (trùng ""điểm thi"")"
+mn,mọi người,teencode,phổ biến trong chat/mạng xã hội
+ae,anh em,teencode,phổ biến trong chat/mạng xã hội
+ad,quản trị viên,teencode,"mượn từ tiếng Anh ""admin"""
+sp,sản phẩm,teencode,"cần xét ngữ cảnh (trùng ""sư phụ"")"
+nc,nói chuyện,teencode,"cần xét ngữ cảnh (trùng ""nước"")"
+qtqđ,quá trời quá đất,teencode,phổ biến trong chat/mạng xã hội
+qá,quá,teencode,"biến thể chính tả của ""quá"""
+iu,yêu,teencode,"biến thể phát âm của ""yêu"""
+nhìu,nhiều,teencode,"biến thể chính tả của ""nhiều"""
+lun,luôn,teencode,"biến thể chính tả của ""luôn"""
+zị,vậy,vung_mien,phát âm miền Nam
+hem,không,vung_mien,phát âm miền Tây Nam Bộ
+hổng,không,vung_mien,phát âm miền Nam
+dìa,về,vung_mien,phát âm miền Nam/Tây
+mắc,đắt,vung_mien,từ địa phương miền Nam
+mèn,trời ơi,vung_mien,thán từ miền Nam
+tê,kia,vung_mien,phương ngữ miền Trung
+mô,đâu,vung_mien,phương ngữ miền Trung
+rứa,vậy,vung_mien,phương ngữ miền Trung
+ni,này,vung_mien,phương ngữ miền Trung
+răng,sao,vung_mien,phương ngữ miền Trung
+chi,gì,vung_mien,phương ngữ miền Trung
+TP,thành phố,hanh_chinh,viết tắt hành chính chính thức
+TP.,thành phố,hanh_chinh,viết tắt hành chính chính thức
+T.P,thành phố,hanh_chinh,viết tắt hành chính chính thức
+Q.,quận,hanh_chinh,viết tắt hành chính chính thức
+P.,phường,hanh_chinh,viết tắt hành chính chính thức
+H.,huyện,hanh_chinh,viết tắt hành chính chính thức
+X.,xã,hanh_chinh,viết tắt hành chính chính thức
+TT.,thị trấn,hanh_chinh,viết tắt hành chính chính thức
+TX.,thị xã,hanh_chinh,viết tắt hành chính chính thức
+Tp,thành phố,hanh_chinh,biến thể viết hoa
+UBND,Ủy ban nhân dân,hanh_chinh,viết tắt hành chính chính thức
+HĐND,Hội đồng nhân dân,hanh_chinh,viết tắt hành chính chính thức
+CMND,Chứng minh nhân dân,hanh_chinh,viết tắt hành chính chính thức
+CCCD,Căn cước công dân,hanh_chinh,viết tắt hành chính chính thức
+GPLX,Giấy phép lái xe,hanh_chinh,viết tắt hành chính chính thức
+BHYT,Bảo hiểm y tế,hanh_chinh,viết tắt hành chính chính thức
+BHXH,Bảo hiểm xã hội,hanh_chinh,viết tắt hành chính chính thức
+CTCP,Công ty cổ phần,hanh_chinh,viết tắt hành chính chính thức
+TNHH,Trách nhiệm hữu hạn,hanh_chinh,viết tắt hành chính chính thức
+DN,doanh nghiệp,hanh_chinh,viết tắt hành chính chính thức
+NN,nhà nước,hanh_chinh,"cần xét ngữ cảnh (trùng ""nông nghiệp"")"
+KHKT,khoa học kỹ thuật,hanh_chinh,viết tắt hành chính chính thức
+GD,giáo dục,hanh_chinh,"cần xét ngữ cảnh (trùng ""giám đốc"")"
+ĐT,đào tạo,hanh_chinh,"cần xét ngữ cảnh (trùng ""điện thoại"")"
+GD&ĐT,giáo dục và đào tạo,hanh_chinh,viết tắt hành chính chính thức
+BGD,Bộ Giáo dục,hanh_chinh,viết tắt hành chính chính thức
+THPT,trung học phổ thông,hanh_chinh,viết tắt hành chính chính thức
+THCS,trung học cơ sở,hanh_chinh,viết tắt hành chính chính thức
+ĐH,đại học,hanh_chinh,viết tắt hành chính chính thức
+CĐ,cao đẳng,hanh_chinh,viết tắt hành chính chính thức
+TS,tiến sĩ,hanh_chinh,"cần xét ngữ cảnh (trùng ""thạc sĩ"" viết sai)"
+ThS,thạc sĩ,hanh_chinh,viết tắt hành chính chính thức
+BS,bác sĩ,hanh_chinh,viết tắt hành chính chính thức
+KS,kỹ sư,hanh_chinh,viết tắt hành chính chính thức
+GV,giáo viên,hanh_chinh,viết tắt hành chính chính thức
+HS,học sinh,hanh_chinh,"cần xét ngữ cảnh (trùng ""hồ sơ"")"
+SV,sinh viên,hanh_chinh,viết tắt hành chính chính thức
+NV,nhân viên,hanh_chinh,"cần xét ngữ cảnh (trùng ""nội vụ"")"
+GĐ,giám đốc,hanh_chinh,"cần xét ngữ cảnh (trùng ""gia đình"")"
+PGĐ,phó giám đốc,hanh_chinh,viết tắt hành chính chính thức
+TGĐ,tổng giám đốc,hanh_chinh,viết tắt hành chính chính thức
+CT,chủ tịch,hanh_chinh,"cần xét ngữ cảnh (trùng ""công ty"")"
+PCT,phó chủ tịch,hanh_chinh,viết tắt hành chính chính thức
+TW,trung ương,hanh_chinh,viết tắt hành chính chính thức
+TƯ,trung ương,hanh_chinh,biến thể viết tắt
+VN,Việt Nam,hanh_chinh,viết tắt hành chính chính thức
+HN,Hà Nội,hanh_chinh,viết tắt hành chính chính thức
+HCM,Hồ Chí Minh,hanh_chinh,viết tắt hành chính chính thức
+TPHCM,Thành phố Hồ Chí Minh,hanh_chinh,viết tắt hành chính chính thức
+TP.HCM,Thành phố Hồ Chí Minh,hanh_chinh,viết tắt hành chính chính thức
+ĐBSCL,Đồng bằng sông Cửu Long,hanh_chinh,viết tắt hành chính chính thức
+NĐ-CP,Nghị định Chính phủ,hanh_chinh,viết tắt hành chính chính thức
+QĐ,quyết định,hanh_chinh,viết tắt hành chính chính thức
+TT,thông tư,hanh_chinh,"cần xét ngữ cảnh (trùng ""thị trấn""",trung tâm)
+NQ,nghị quyết,hanh_chinh,viết tắt hành chính chính thức
+CP,Chính phủ,hanh_chinh,"cần xét ngữ cảnh (trùng ""cổ phần"")"
+kh,không,teencode,"biến thể chính tả của ""không"""
+hoq,không,teencode,"biến thể chính tả của ""không"""
+khum,không,teencode,"biến thể hài hước của ""không"""
+khong,không,teencode,gõ thiếu dấu
+kb,kết bạn,teencode,phổ biến trong chat/mạng xã hội
+tl,trả lời,teencode,"cần xét ngữ cảnh (trùng ""tình yêu"")"
+qtv,quản trị viên,teencode,phổ biến trong nhóm/diễn đàn
+cmt,bình luận,teencode,"mượn từ tiếng Anh ""comment"""," cần xét ngữ cảnh (trùng ""chứng minh thư"")"
+cmnt,bình luận,teencode,"biến thể của ""cmt"""
+lag,bị lỗi,teencode,"mượn từ tiếng Anh ""lag"""
+fb,Facebook,teencode,tên riêng mạng xã hội
+zalo,Zalo,teencode,tên riêng ứng dụng
+face,Facebook,teencode,gọi tắt của Facebook
+seen,đã xem,teencode,mượn từ tiếng Anh
+đth,điện thoại,teencode,biến thể viết tắt
+mng,mọi người,teencode,"biến thể của ""mn"""
+ngta,người ta,teencode,phổ biến trong chat/mạng xã hội
+ngto,người ta,teencode,biến thể chính tả
+nvm,thôi bỏ đi,teencode,"mượn từ tiếng Anh ""nevermind"""
+btw,nhân tiện,teencode,"mượn từ tiếng Anh ""by the way"""
+fyi,để bạn biết,teencode,"mượn từ tiếng Anh ""for your information"""
+omg,trời ơi,teencode,"mượn từ tiếng Anh ""oh my god"""
+lol,buồn cười quá,teencode,mượn từ tiếng Anh
+haha,cười,teencode,biểu cảm cười trong chat
+kk,cười,teencode,biểu cảm cười (mượn từ Hàn/Anh)
+vcl,quá đáng,teencode,tiếng lóng thô tục, cần lọc khi làm sạch dữ liệu
+vl,quá,teencode,tiếng lóng thô tục, cần lọc khi làm sạch dữ liệu
+dm,chửi thề,teencode,tiếng lóng thô tục, cần lọc khi làm sạch dữ liệu
+đm,chửi thề,teencode,tiếng lóng thô tục, cần lọc khi làm sạch dữ liệu
+sml,rất tệ,teencode,tiếng lóng, viết tắt thô tục
+gato,ghen ăn tức ở,teencode,tiếng lóng phổ biến
+tth,tình trạng hôn nhân,hanh_chinh,cần xét ngữ cảnh (đa nghĩa)
+ncc,nhà cung cấp,hanh_chinh,viết tắt thường dùng trong văn bản kinh doanh
+kh,khách hàng,hanh_chinh,"cần xét ngữ cảnh (trùng ""không"")"
+dv,dịch vụ,hanh_chinh,"cần xét ngữ cảnh (trùng ""đơn vị"")"
+đvt,đơn vị tính,hanh_chinh,viết tắt thường dùng trong bảng biểu
+sl,số lượng,hanh_chinh,viết tắt thường dùng trong bảng biểu
+tp,thành phần,hanh_chinh,"cần xét ngữ cảnh (trùng ""thành phố"")"
+kl,khối lượng,hanh_chinh,"cần xét ngữ cảnh (trùng ""kết luận"")"
+tg,thời gian,hanh_chinh,"cần xét ngữ cảnh (trùng ""tác giả"")"
+qh,quốc hội,hanh_chinh,"cần xét ngữ cảnh (trùng ""quan hệ"")"
+qp,quốc phòng,hanh_chinh,viết tắt hành chính chính thức
+csgt,cảnh sát giao thông,hanh_chinh,viết tắt hành chính chính thức
+cq,cơ quan,hanh_chinh,viết tắt thường dùng trong văn bản
+cty,công ty,hanh_chinh,viết tắt phổ biến
+cn,chi nhánh,hanh_chinh,"cần xét ngữ cảnh (trùng ""công nghệ""",công nhân)
+kt,kinh tế,hanh_chinh,"cần xét ngữ cảnh (trùng ""kỹ thuật"")"
+ytế,y tế,hanh_chinh,gõ thiếu dấu cách
+bv,bệnh viện,hanh_chinh,viết tắt hành chính chính thức
+pk,phòng khám,hanh_chinh,"cần xét ngữ cảnh (trùng ""phòng ký"")"
+đd,điều dưỡng,hanh_chinh,viết tắt hành chính chính thức
+dl,du lịch,hanh_chinh,"cần xét ngữ cảnh (trùng ""dữ liệu"")"
+đl,đại lý,hanh_chinh,"cần xét ngữ cảnh (trùng ""độ lớn"")"
+nxb,nhà xuất bản,hanh_chinh,viết tắt hành chính chính thức
+tk,tài khoản,hanh_chinh,"cần xét ngữ cảnh (trùng ""thư ký"")"
+stk,số tài khoản,hanh_chinh,viết tắt hành chính chính thức
+qc,quảng cáo,hanh_chinh,"cần xét ngữ cảnh (trùng ""quy chế"")"
+ncs,nghiên cứu sinh,hanh_chinh,viết tắt hành chính chính thức
+nckh,nghiên cứu khoa học,hanh_chinh,viết tắt hành chính chính thức
+đvhc,đơn vị hành chính,hanh_chinh,viết tắt hành chính chính thức
+tct,tổng công ty,hanh_chinh,viết tắt hành chính chính thức
+sxkd,sản xuất kinh doanh,hanh_chinh,viết tắt hành chính chính thức
+nsnn,ngân sách nhà nước,hanh_chinh,viết tắt hành chính chính thức
+gtgt,giá trị gia tăng,hanh_chinh,viết tắt hành chính chính thức (thuế GTGT)
+tncn,thu nhập cá nhân,hanh_chinh,viết tắt hành chính chính thức (thuế TNCN)
+tndn,thu nhập doanh nghiệp,hanh_chinh,viết tắt hành chính chính thức (thuế TNDN)
+hd,hợp đồng,hanh_chinh,"cần xét ngữ cảnh (trùng ""hoạt động"")"
+hđlđ,hợp đồng lao động,hanh_chinh,viết tắt hành chính chính thức
+bc,báo cáo,hanh_chinh,viết tắt thường dùng trong văn bản
+tb,thông báo,hanh_chinh,"cần xét ngữ cảnh (trùng ""trung bình"")"
+vb,văn bản,hanh_chinh,viết tắt thường dùng
+tơi,tới,vung_mien,phát âm miền Nam
+zui,vui,teencode,biến thể chính tả hài hước
+thoai,thôi,teencode,"biến thể chính tả của ""thôi"""
+oy,rồi,teencode,"biến thể chính tả của ""rồi"""
+mí,mấy,vung_mien,cần xét ngữ cảnh (đa nghĩa, phát âm miền Nam)
+hen,nhé,vung_mien,phát âm miền Nam
+nghen,nhé,vung_mien,phát âm miền Nam
+nè,này,vung_mien,phát âm miền Nam
+đó,đấy,vung_mien,phát âm miền Nam
+hè,nhỉ,vung_mien,phát âm miền Trung/Nam
+tề,kìa,vung_mien,phương ngữ miền Trung
+mần,làm,vung_mien,phương ngữ miền Trung
+nác,nước,vung_mien,phương ngữ miền Trung (Nghệ An/Hà Tĩnh)
+đọi,bát,vung_mien,phương ngữ miền Trung (Nghệ An/Hà Tĩnh)
+mụ,bà,vung_mien,phương ngữ miền Trung
+tau,tao,vung_mien,phương ngữ miền Trung
+mi,mày,vung_mien,phương ngữ miền Trung
+mắc cỡ,xấu hổ,vung_mien,phương ngữ miền Nam
+xỉu,ngất,vung_mien,tiếng lóng miền Nam
+quởn,rảnh rỗi,vung_mien,phương ngữ miền Nam
+mắc công,mất công,vung_mien,phương ngữ miền Nam
+lẹ,nhanh,vung_mien,phương ngữ miền Nam
+banh ta lông,hỏng hết,teencode,tiếng lóng phổ biến trên mạng
+chằm zn,trầm cảm,teencode,"biến âm hài hước của ""trầm cảm"""
